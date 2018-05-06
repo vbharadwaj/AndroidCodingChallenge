@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MovieReviewer</string>
+
+    <string name="no_results_available">No Results Available</string>
+
+    <string name="error_failed_to_execute_request">Failed to execute request</string>
+    <string name="error_server_error">Server error</string>
+
+    <string name="reviewer">By: %1$s</string>
+    <string name="rating">Rating: %1$s</string>
+</resources>
